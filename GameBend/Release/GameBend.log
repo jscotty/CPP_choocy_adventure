@@ -1,0 +1,32 @@
+﻿  Camera.cpp
+c:\users\justin\desktop\cpp\gamebend\gamebend\Camera.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Display.cpp
+c:\users\justin\desktop\cpp\gamebend\gamebend\Display.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Entity.cpp
+c:\users\justin\desktop\cpp\gamebend\gamebend\RawModel.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  GUIRenderer.cpp
+c:\users\justin\desktop\cpp\gamebend\gamebend\RawModel.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Loader.cpp
+c:\users\justin\desktop\cpp\gamebend\gamebend\Loader.h(5): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Main.cpp
+Main.cpp(2): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  MasterRenderer.cpp
+c:\users\justin\desktop\cpp\gamebend\gamebend\ShaderProgram.h(4): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  EntityRenderer.cpp
+c:\users\justin\desktop\cpp\gamebend\gamebend\RawModel.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  ModelTexture.cpp
+c:\users\justin\desktop\cpp\gamebend\gamebend\ModelTexture.h(4): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  OBJLoader.cpp
+c:\users\justin\desktop\cpp\gamebend\gamebend\OBJLoader.h(4): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Player.cpp
+c:\users\justin\desktop\cpp\gamebend\gamebend\RawModel.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  RawModel.cpp
+c:\users\justin\desktop\cpp\gamebend\gamebend\RawModel.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  ShaderProgram.cpp
+c:\users\justin\desktop\cpp\gamebend\gamebend\ShaderProgram.h(4): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Terrain.cpp
+c:\users\justin\desktop\cpp\gamebend\gamebend\RawModel.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  TerrainRenderer.cpp
+c:\users\justin\desktop\cpp\gamebend\gamebend\ShaderProgram.h(4): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  TexturedModel.cpp
+c:\users\justin\desktop\cpp\gamebend\gamebend\RawModel.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
